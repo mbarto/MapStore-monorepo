@@ -1,0 +1,10 @@
+{
+  "configuration": {
+    "theme": {
+      "variant": "light",
+      "navbar": {
+          "style": {}
+      }
+    }
+  }
+}
